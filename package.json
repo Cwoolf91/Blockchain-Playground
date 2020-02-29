@@ -1,0 +1,12 @@
+{
+    "name": "blockchain_app_test",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "tsc": "tsc"
+    },
+    "devDependencies": {
+        "@types/node": "^12.12.2",
+        "typescript": "3.4.3"
+    }
+}
